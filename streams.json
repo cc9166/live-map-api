@@ -1,14 +1,1106 @@
 [
   {
-    "name": "Dark Sky Maine",
-    "lat": 45.2538,
-    "lng": -69.4455,
-    "youtubeId": "Y6VDEB_xGw4"
-  },
-  {
-    "name": "Brown County Nashville",
+    "name": "Brown County - Nashville, Indiana",
+    "place": "Nashville, IN",
     "lat": 39.2072,
     "lng": -86.2472,
-    "youtubeId": "cJ7p6dEc_Yw"
+    "youtubeId": "cJ7p6dEc_Yw",
+    "isHot": true
+  },
+  {
+    "name": "Mulberry Street - Little Italy (New York City, NY)",
+    "place": "Little Italy, NYC",
+    "lat": 40.7195,
+    "lng": -73.9973,
+    "youtubeId": "ATi3zih-tu8",
+    "isHot": true
+  },
+  {
+    "name": "Statue of Liberty CrownCam",
+    "place": "Statue of Liberty, NY",
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "youtubeId": "YHRYOL03ydw",
+    "isHot": true
+  },
+  {
+    "name": "Giraffe Cam Barn - Greenville, SC",
+    "place": "Giraffe Cam Barn - Greenville, SC",
+    "lat": 34.8526,
+    "lng": -82.394,
+    "youtubeId": "AIwsO8sB0LM",
+    "isHot": true
+  },
+  {
+    "name": "World's Largest Buffalo Monument (Jamestown, Nort…",
+    "place": "Jamestown, ND",
+    "lat": 46.9105,
+    "lng": -98.7084,
+    "youtubeId": "VWDi2Po3ZsQ",
+    "isHot": true
+  },
+  {
+    "name": "Wildwoods Cam (Wildwood, NJ)",
+    "place": "Wildwood, NJ",
+    "lat": 38.9917,
+    "lng": -74.8149,
+    "youtubeId": "cK71xhMRtds",
+    "isHot": true
+  },
+  {
+    "name": "Pigeon River Cam (Hartford, TN)",
+    "place": "Hartford, TN",
+    "lat": 35.8154,
+    "lng": -83.1451,
+    "youtubeId": "_Hot1aH7W_E",
+    "isHot": true
+  },
+  {
+    "name": "Lincoln Harbor (New York City)",
+    "place": "Lincoln Harbor, NJ",
+    "lat": 40.7608,
+    "lng": -74.0236,
+    "youtubeId": "mIR_RCyDL_w",
+    "isHot": true
+  },
+  {
+    "name": "Warrenton, Virginia",
+    "place": "Warrenton",
+    "lat": 38.7135,
+    "lng": -77.7953,
+    "youtubeId": "zu-I5jNHIxI",
+    "isHot": true
+  },
+  {
+    "name": "Spirit Lake, Iowa",
+    "place": "Spirit Lake",
+    "lat": 43.4222,
+    "lng": -95.1022,
+    "youtubeId": "XIe9vQkAd7Q",
+    "isHot": true
+  },
+  {
+    "name": "Times Square North 4K",
+    "place": "Times Square, NYC",
+    "lat": 40.7614,
+    "lng": -73.9847,
+    "youtubeId": "JQ_jwk_7OVE",
+    "isHot": true
+  },
+  {
+    "name": "Giraffe Paddock Cam - Greenville, SC",
+    "place": "Giraffe Paddock  Cam - Greenville, SC",
+    "lat": 34.8526,
+    "lng": -82.394,
+    "youtubeId": "sLRtUoPNH2k",
+    "isHot": true
+  },
+  {
+    "name": "Snowman Cam - Animals and Wildlife (Gaylord, Mich…",
+    "place": "Gaylord",
+    "lat": 45.0275,
+    "lng": -84.6747,
+    "youtubeId": "IU_-Pl9O5jQ",
+    "isHot": true
+  },
+  {
+    "name": "Liberty Bell - Independence Hall (Philadelphia, PA)",
+    "place": "Philadelphia, PA",
+    "lat": 39.9496,
+    "lng": -75.1503,
+    "youtubeId": "F1EQEDL4ddU",
+    "isHot": true
+  },
+  {
+    "name": "Hideaways Camp Kuzuma, African Watering Hole (Cho…",
+    "place": "Chobe, Botswana",
+    "lat": -17.85,
+    "lng": 25.15,
+    "youtubeId": "iqdRLSdSjWI",
+    "isHot": true
+  },
+  {
+    "name": "Philadelphia, PA",
+    "place": "Philadelphia, PA",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "youtubeId": "9mMnqO1UuIU",
+    "isHot": true
+  },
+  {
+    "name": "Council Bluffs, Iowa",
+    "place": "Council Bluffs",
+    "lat": 41.2619,
+    "lng": -95.8608,
+    "youtubeId": "qsrevo5Vdkw",
+    "isHot": true
+  },
+  {
+    "name": "Sanibel Island",
+    "place": "Sanibel",
+    "lat": 26.4489,
+    "lng": -82.0223,
+    "youtubeId": "4LTSTw4jnZc",
+    "isHot": true
+  },
+  {
+    "name": "Times Square Crossroads (New York City, NY)",
+    "place": "Times Square, NYC",
+    "lat": 40.757,
+    "lng": -73.9858,
+    "youtubeId": "z-jYdOIKcTQ",
+    "isHot": true
+  },
+  {
+    "name": "World Trade Center - New York City, NY",
+    "place": "World Trade Center - New York City, NY",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "5C9oM7C2Q9k",
+    "isHot": true
+  },
+  {
+    "name": "New Orleans Balcony View",
+    "place": "New Orleans",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "youtubeId": "C32EiZiQPkQ",
+    "isHot": true
+  },
+  {
+    "name": "Aquarium Cam (Baltimore, Maryland)",
+    "place": "Aquarium Cam (Baltimore, Maryland)",
+    "lat": 29.1,
+    "lng": -89.3,
+    "youtubeId": "KSxc-N67TU4",
+    "isHot": true
+  },
+  {
+    "name": "Washington Monument (Washington, D.C.)",
+    "place": "Washington",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "youtubeId": "oDCAAfOSqvA",
+    "isHot": true
+  },
+  {
+    "name": "Flight 93 Memorial - Tower of Voices (Shanksville…",
+    "place": "Shanksville, PA",
+    "lat": 41.1173,
+    "lng": -77.2945,
+    "youtubeId": "mjzA1Yxh7ZY",
+    "isHot": true
+  },
+  {
+    "name": "Roswell, New Mexico",
+    "place": "Roswell, New Mexico",
+    "lat": 49.8,
+    "lng": -106.7,
+    "youtubeId": "kLoFxVhRWtQ",
+    "isHot": true
+  },
+  {
+    "name": "Statue of Liberty",
+    "place": "Statue of Liberty, NY",
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "youtubeId": "cWR8KGKftUw",
+    "isHot": true
+  },
+  {
+    "name": "Ruidoso, New Mexico",
+    "place": "Ruidoso, New Mexico",
+    "lat": 28.8,
+    "lng": -96.0,
+    "youtubeId": "XoANQufSSXY",
+    "isHot": true
+  },
+  {
+    "name": "Milwaukee, WI",
+    "place": "Milwaukee, WI",
+    "lat": 43.7424,
+    "lng": -88.8439,
+    "youtubeId": "MT5Og9gOKuM",
+    "isHot": true
+  },
+  {
+    "name": "Chicago Skydeck Cam (Chicago, IL)",
+    "place": "Chicago, IL",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "youtubeId": "O0UGT7AT3aw",
+    "isHot": true
+  },
+  {
+    "name": "Terminal Tower Cam (Cleveland, OH)",
+    "place": "Cleveland, OH",
+    "lat": 41.4993,
+    "lng": -81.6944,
+    "youtubeId": "iHqqkh_Lths",
+    "isHot": true
+  },
+  {
+    "name": "Midway Airport (Chicago, IL)",
+    "place": "Chicago, IL",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "youtubeId": "0ZzPWoeZzuI",
+    "isHot": true
+  },
+  {
+    "name": "Coney Island (New York City)",
+    "place": "New York",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "H67j7H-7QD0",
+    "isHot": true
+  },
+  {
+    "name": "Anglins Pier (Lauderdale-By-The-Sea, FL)",
+    "place": "Lauderdale-By-The-Sea, FL",
+    "lat": 26.1224,
+    "lng": -80.1373,
+    "youtubeId": "YEAhxXd-TiY",
+    "isHot": true
+  },
+  {
+    "name": "Niagara Falls",
+    "place": "Niagara Falls",
+    "lat": 30.3,
+    "lng": -97.5,
+    "youtubeId": "qx7gry390YA",
+    "isHot": true
+  },
+  {
+    "name": "Sitka, Alaska",
+    "place": "Sitka",
+    "lat": 57.0531,
+    "lng": -135.33,
+    "youtubeId": "sF5hFDGN20Y",
+    "isHot": true
+  },
+  {
+    "name": "Allegiant Stadium (Las Vegas, NV)",
+    "place": "Las Vegas, NV",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "youtubeId": "_rmUXOHSf0w",
+    "isHot": true
+  },
+  {
+    "name": "Fort Myers, FL",
+    "place": "Fort Myers, FL",
+    "lat": 26.6406,
+    "lng": -81.8723,
+    "youtubeId": "skM8DTCx3gM",
+    "isHot": true
+  },
+  {
+    "name": "Scrub Island (British Virgin Islands)",
+    "place": "British Virgin Islands",
+    "lat": 18.4207,
+    "lng": -64.64,
+    "youtubeId": "t55kv94nEzc",
+    "isHot": true
+  },
+  {
+    "name": "Tamariu, Spain",
+    "place": "Tamariu",
+    "lat": 41.9172,
+    "lng": 3.2119,
+    "youtubeId": "PMhVgTcDd1o",
+    "isHot": true
+  },
+  {
+    "name": "Bellagio Conservatory & Botanical Gardens (Las Ve…",
+    "place": "Las Vegas, NV",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "youtubeId": "KJuGU7v5oYw",
+    "isHot": true
+  },
+  {
+    "name": "Kansas City Cam (Kansas City, MO)",
+    "place": "Kansas City, MO",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "youtubeId": "9fzUjSTK5F8",
+    "isHot": true
+  },
+  {
+    "name": "SUMMIT One Vanderbilt (New York City, NY)",
+    "place": "New York City, NY",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "2_PDaUJbfuI",
+    "isHot": true
+  },
+  {
+    "name": "Scottsville Main Street (Scottsville, Kentucky)",
+    "place": "Scottsville",
+    "lat": 36.7534,
+    "lng": -86.1905,
+    "youtubeId": "MsiHVaomJ04",
+    "isHot": true
+  },
+  {
+    "name": "- Western Wall (Jerusalem, Israel)",
+    "place": "- Western Wall (Jerusalem, Israel)",
+    "lat": 28.7,
+    "lng": -84.1,
+    "youtubeId": "77akujLn4k8",
+    "isHot": true
+  },
+  {
+    "name": "New Orleans Street View",
+    "place": "New Orleans",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "youtubeId": "Ksrleaxxxhw",
+    "isHot": true
+  },
+  {
+    "name": "Dublin, Ireland",
+    "place": "Dublin",
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "youtubeId": "3nyPER2kzqk",
+    "isHot": true
+  },
+  {
+    "name": "Abbey Road Crossing (London, England)",
+    "place": "Abbey Road, London",
+    "lat": 51.5321,
+    "lng": -0.1773,
+    "youtubeId": "M3EYAY2MftI",
+    "isHot": true
+  },
+  {
+    "name": "Celebrate New London - Fireworks",
+    "place": "New London",
+    "lat": 41.3556,
+    "lng": -72.0995,
+    "youtubeId": "I2Id_FgfW9A",
+    "isHot": true
+  },
+  {
+    "name": "4th of July America 250 Independence Day",
+    "place": "4th of July America 250 Independence Day",
+    "lat": 40.1,
+    "lng": -91.6,
+    "youtubeId": "hRp3RReWae4",
+    "isHot": true
+  },
+  {
+    "name": "Amazon Rainforest Cam (Madre de Dios, Peru)",
+    "place": "Madre de Dios, Peru",
+    "lat": -12.5933,
+    "lng": -69.189,
+    "youtubeId": "MSOomqI01uU",
+    "isHot": true
+  },
+  {
+    "name": "Amazon Rainforest Cam (Madre de Dios, Peru)",
+    "place": "Madre de Dios, Peru",
+    "lat": -12.5933,
+    "lng": -69.189,
+    "youtubeId": "EKG1UaTgMeE",
+    "isHot": false
+  },
+  {
+    "name": "Amazon Rainforest Cam (Madre de Dios, Peru)",
+    "place": "Madre de Dios, Peru",
+    "lat": -12.5933,
+    "lng": -69.189,
+    "youtubeId": "ty_9PNJG5pw",
+    "isHot": false
+  },
+  {
+    "name": "Mississippi River Bridge Demolition",
+    "place": "St. Louis, MO",
+    "lat": 38.627,
+    "lng": -90.1994,
+    "youtubeId": "THpdh5VddvA",
+    "isHot": false
+  },
+  {
+    "name": "Hideaways Camp Kuzuma, African Watering Hole (Cho…",
+    "place": "Chobe, Botswana",
+    "lat": -17.85,
+    "lng": 25.15,
+    "youtubeId": "nmrApVyrBIw",
+    "isHot": false
+  },
+  {
+    "name": "Giraffe Paddock Cam - Greenville, SC",
+    "place": "Giraffe Paddock  Cam - Greenville, SC",
+    "lat": 34.8526,
+    "lng": -82.394,
+    "youtubeId": "vTaJjIttrZU",
+    "isHot": false
+  },
+  {
+    "name": "Giraffe Cam Barn - Greenville, SC",
+    "place": "Giraffe Cam Barn - Greenville, SC",
+    "lat": 34.8526,
+    "lng": -82.394,
+    "youtubeId": "VlY0hPrnIUg",
+    "isHot": false
+  },
+  {
+    "name": "2025 Fourth of July Fireworks",
+    "place": "2025 Fourth of July Fireworks",
+    "lat": 40.6,
+    "lng": -82.5,
+    "youtubeId": "H56KDRAEvok",
+    "isHot": false
+  },
+  {
+    "name": "Hideaways Camp Kuzuma, African Watering Hole (Cho…",
+    "place": "Chobe, Botswana",
+    "lat": -17.85,
+    "lng": 25.15,
+    "youtubeId": "EdFaTPDGyI0",
+    "isHot": false
+  },
+  {
+    "name": "Mulberry Street (Little Italy, NYC)",
+    "place": "Nyc",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "MsRyrYYGrRU",
+    "isHot": false
+  },
+  {
+    "name": "Mulberry Street (Little Italy, NYC)",
+    "place": "Nyc",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "0vkld4n1a7o",
+    "isHot": false
+  },
+  {
+    "name": "Mulberry Street (Little Italy, NYC)",
+    "place": "Nyc",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "neTPjjYfyh0",
+    "isHot": false
+  },
+  {
+    "name": "Northeast Winter Storm",
+    "place": "Northeast Winter Storm",
+    "lat": 30.9,
+    "lng": -78.8,
+    "youtubeId": "jSYFZB_cHOw",
+    "isHot": false
+  },
+  {
+    "name": "Rick's Cafe Cam (Negril, Jamaica)",
+    "place": "Negril",
+    "lat": 18.268,
+    "lng": -78.347,
+    "youtubeId": "LePu-6viUX0",
+    "isHot": false
+  },
+  {
+    "name": "Scrub Island (British Virgin Islands)",
+    "place": "British Virgin Islands",
+    "lat": 18.4207,
+    "lng": -64.64,
+    "youtubeId": "4Kzf4gZbc60",
+    "isHot": false
+  },
+  {
+    "name": "New London, CT - Sailfest Fireworks",
+    "place": "New London, CT",
+    "lat": 41.3556,
+    "lng": -72.0995,
+    "youtubeId": "MmR-7f7sQEw",
+    "isHot": false
+  },
+  {
+    "name": "Independence Day Firework Celebrations",
+    "place": "Independence Day Firework Celebrations",
+    "lat": 45.7,
+    "lng": -84.2,
+    "youtubeId": "bzle7xGLveI",
+    "isHot": false
+  },
+  {
+    "name": "EarthCam Q9EN-i10",
+    "place": "Location TBD",
+    "lat": 43.2,
+    "lng": -78.5,
+    "youtubeId": "Q9EN-i10OOg",
+    "isHot": false
+  },
+  {
+    "name": "EarthCam CZnY66m0",
+    "place": "Location TBD",
+    "lat": 26.5,
+    "lng": -70.7,
+    "youtubeId": "CZnY66m0Xiw",
+    "isHot": false
+  },
+  {
+    "name": "EarthCam tEpSiXnq",
+    "place": "Location TBD",
+    "lat": 34.4,
+    "lng": -80.7,
+    "youtubeId": "tEpSiXnqS7w",
+    "isHot": false
+  },
+  {
+    "name": "Solar Eclipse Cam (NASA) Archived recording",
+    "place": "Kennedy Space Center, FL",
+    "lat": 28.5729,
+    "lng": -80.649,
+    "youtubeId": "AeNSAOVUbEM",
+    "isHot": false
+  },
+  {
+    "name": "Dublin, Ireland",
+    "place": "Dublin",
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "youtubeId": "O0du5kMKHMk",
+    "isHot": false
+  },
+  {
+    "name": "Fremont Street - Las Vegas, Nevada",
+    "place": "Las Vegas",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "youtubeId": "pFebijydkDM",
+    "isHot": false
+  },
+  {
+    "name": "September 11th Tribute in Light",
+    "place": "September 11th Tribute in Light",
+    "lat": 27.9,
+    "lng": -114.0,
+    "youtubeId": "4P7NhwmwQ5w",
+    "isHot": false
+  },
+  {
+    "name": "- Hurricane Idalia Watch",
+    "place": "- Hurricane Idalia Watch",
+    "lat": 44.9,
+    "lng": -75.3,
+    "youtubeId": "Izrwa8E8ozc",
+    "isHot": false
+  },
+  {
+    "name": "Andy Warhol FigmentCam",
+    "place": "Andy Warhol FigmentCam",
+    "lat": 32.2,
+    "lng": -91.5,
+    "youtubeId": "JHpJvvn9hvk",
+    "isHot": false
+  },
+  {
+    "name": "+ Scotts Bring You Dogs for Adoption on Lawnstream!",
+    "place": "+ Scotts Bring You Dogs for Adoption on Lawnstream!",
+    "lat": 29.7,
+    "lng": -114.4,
+    "youtubeId": "xI_AHGdmh9A",
+    "isHot": false
+  },
+  {
+    "name": "+ Scotts Bring You Goat Yoga!",
+    "place": "+ Scotts Bring You Goat Yoga!",
+    "lat": 29.2,
+    "lng": -111.3,
+    "youtubeId": "oQGO1s75UPo",
+    "isHot": false
+  },
+  {
+    "name": "Fourth of July Firework Celebrations",
+    "place": "Fourth of July Firework Celebrations",
+    "lat": 26.9,
+    "lng": -83.0,
+    "youtubeId": "DX016HDedz8",
+    "isHot": false
+  },
+  {
+    "name": "Canadian Wildfire Smoke",
+    "place": "Canadian Wildfire Smoke",
+    "lat": 25.2,
+    "lng": -119.7,
+    "youtubeId": "5o59zyi7EyA",
+    "isHot": false
+  },
+  {
+    "name": "Canadian Wildfire Smoke Reaches New York City",
+    "place": "New York",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "EvGaSRT82E8",
+    "isHot": false
+  },
+  {
+    "name": "Canadian Wildfire Smoke Reaches New York City",
+    "place": "New York",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "POgVGUAxNcs",
+    "isHot": false
+  },
+  {
+    "name": "Cherry Blossom Peak Bloom - Washington, D.C.",
+    "place": "Washington",
+    "lat": 38.9072,
+    "lng": -77.0369,
+    "youtubeId": "nNkSMJP0Tyg",
+    "isHot": false
+  },
+  {
+    "name": "Kansas City Chiefs Super Bowl Parade",
+    "place": "Kansas City",
+    "lat": 39.0997,
+    "lng": -94.5786,
+    "youtubeId": "C0c3Evh5v0g",
+    "isHot": false
+  },
+  {
+    "name": "- Hallmark Channel - Harbor Springs, MI",
+    "place": "EarthCam Live - Hallmark Channel - Harbor Springs, MI",
+    "lat": 45.4317,
+    "lng": -84.9917,
+    "youtubeId": "IZv2YKOM-zU",
+    "isHot": false
+  },
+  {
+    "name": "- Hallmark Channel - St. Paul, Minnesota",
+    "place": "St. Paul",
+    "lat": 44.9537,
+    "lng": -93.09,
+    "youtubeId": "E5OQ7wV8Ttc",
+    "isHot": false
+  },
+  {
+    "name": "- 2022 Webcam Championship - Weird & Bizarre",
+    "place": "- 2022 Webcam Championship - Weird & Bizarre",
+    "lat": 33.8,
+    "lng": -108.2,
+    "youtubeId": "mcuxKh7Nc80",
+    "isHot": false
+  },
+  {
+    "name": "- 2022 Webcam Championship - Landmarks",
+    "place": "- 2022 Webcam Championship - Landmarks",
+    "lat": 46.7,
+    "lng": -108.7,
+    "youtubeId": "gLNhly1TLds",
+    "isHot": false
+  },
+  {
+    "name": "- 2022 Webcam Championship - Lakes, Rivers, & Oceans",
+    "place": "- 2022 Webcam Championship - Lakes, Rivers, & Oceans",
+    "lat": 26.0,
+    "lng": -99.0,
+    "youtubeId": "Tut6oLUKaH4",
+    "isHot": false
+  },
+  {
+    "name": "- 2022 Webcam Championship - Cityscapes",
+    "place": "- 2022 Webcam Championship - Cityscapes",
+    "lat": 40.3,
+    "lng": -113.4,
+    "youtubeId": "gnvk3vjhay8",
+    "isHot": false
+  },
+  {
+    "name": "- 2022 Webcam Championship - Animal Cams",
+    "place": "- 2022 Webcam Championship - Animal Cams",
+    "lat": 47.0,
+    "lng": -84.5,
+    "youtubeId": "AEOgBCHvxFs",
+    "isHot": false
+  },
+  {
+    "name": "Replay - Artemis I Launch",
+    "place": "Kennedy Space Center, FL",
+    "lat": 28.5729,
+    "lng": -80.649,
+    "youtubeId": "i1ELvajCKzM",
+    "isHot": false
+  },
+  {
+    "name": "New Orleans",
+    "place": "New Orleans",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "youtubeId": "RyAqbFNSl0I",
+    "isHot": false
+  },
+  {
+    "name": "Underwater Manatee Cam",
+    "place": "Florida, USA",
+    "lat": 28.5383,
+    "lng": -81.3792,
+    "youtubeId": "dXZmdEYpYKM",
+    "isHot": false
+  },
+  {
+    "name": "Times Square NYE Party - Up Close",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "zM064OHpbno",
+    "isHot": false
+  },
+  {
+    "name": "Hurricane Ida - Bourbon Street, New Orleans",
+    "place": "New Orleans",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "youtubeId": "1ziciboPx7w",
+    "isHot": false
+  },
+  {
+    "name": "Times Square New Year's Eve Performances in close up",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "QsCb5D_cb54",
+    "isHot": false
+  },
+  {
+    "name": "St. Stephen's Day, Hungary",
+    "place": "Budapest, Hungary",
+    "lat": 47.4979,
+    "lng": 19.0402,
+    "youtubeId": "lopdIY6nVIs",
+    "isHot": false
+  },
+  {
+    "name": "NASA Cam",
+    "place": "Kennedy Space Center, FL",
+    "lat": 28.5729,
+    "lng": -80.649,
+    "youtubeId": "RdlaihsKnZc",
+    "isHot": false
+  },
+  {
+    "name": "U.S. Soccer WNT Ticker-Tape Parade",
+    "place": "U.S. Soccer WNT Ticker-Tape Parade",
+    "lat": 42.8,
+    "lng": -102.2,
+    "youtubeId": "uNhA7NtLHcY",
+    "isHot": false
+  },
+  {
+    "name": "4th of July",
+    "place": "4th of July",
+    "lat": 42.2,
+    "lng": -100.9,
+    "youtubeId": "YFIbDhvYXbg",
+    "isHot": false
+  },
+  {
+    "name": "Osprey Cam",
+    "place": "Osprey Cam",
+    "lat": 38.7,
+    "lng": -72.0,
+    "youtubeId": "FaU5yL1gArw",
+    "isHot": false
+  },
+  {
+    "name": "Shark and Friends Cams",
+    "place": "Shark and Friends Cams",
+    "lat": 31.7,
+    "lng": -122.5,
+    "youtubeId": "o41HD4IiWoA",
+    "isHot": false
+  },
+  {
+    "name": "Discovery Bay Cam",
+    "place": "Discovery Bay, CA",
+    "lat": 37.9085,
+    "lng": -121.6002,
+    "youtubeId": "kpGIo_HyKv0",
+    "isHot": false
+  },
+  {
+    "name": "Florida Marina Cam",
+    "place": "Florida Marina Cam",
+    "lat": 41.2,
+    "lng": -82.5,
+    "youtubeId": "_sOQkz1xgKc",
+    "isHot": false
+  },
+  {
+    "name": "Times Square Crossroads Cam",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "PGrq-2mju2s",
+    "isHot": false
+  },
+  {
+    "name": "Chicago Cubs Home Opener at Wrigley Field",
+    "place": "Chicago",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "youtubeId": "ThZhEyEi-hk",
+    "isHot": false
+  },
+  {
+    "name": "2018 Independence Day Fireworks",
+    "place": "2018 Independence Day Fireworks",
+    "lat": 33.3,
+    "lng": -92.7,
+    "youtubeId": "SdKQwO5Qwic",
+    "isHot": false
+  },
+  {
+    "name": "St. Patrick's Day Parade in New York City",
+    "place": "New York",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "UtwnO9WQRJs",
+    "isHot": false
+  },
+  {
+    "name": "St. Patrick's Day Live from Dublin",
+    "place": "Dublin",
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "youtubeId": "Ia7KWuogSEk",
+    "isHot": false
+  },
+  {
+    "name": "Sunny Isles Beach, FL",
+    "place": "Sunny Isles Beach, FL",
+    "lat": 25.9429,
+    "lng": -80.123,
+    "youtubeId": "M9z5cNyrLxs",
+    "isHot": false
+  },
+  {
+    "name": "Rio De Janeiro",
+    "place": "Rio De Janeiro",
+    "lat": 25.3,
+    "lng": -115.8,
+    "youtubeId": "FKND5vRd4PU",
+    "isHot": false
+  },
+  {
+    "name": "Mardi Gras in New Orleans",
+    "place": "New Orleans",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "youtubeId": "fmGPepxscD8",
+    "isHot": false
+  },
+  {
+    "name": "Mardi Gras in New Orleans",
+    "place": "New Orleans",
+    "lat": 29.9511,
+    "lng": -90.0715,
+    "youtubeId": "Do5uGMQoK3M",
+    "isHot": false
+  },
+  {
+    "name": "Philadelphia Eagles Victory Parade",
+    "place": "Philadelphia",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "youtubeId": "PzuPSmvNLWQ",
+    "isHot": false
+  },
+  {
+    "name": "Philadelphia Eagles Victory Parade",
+    "place": "Philadelphia",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "youtubeId": "Xf5lpRkveLs",
+    "isHot": false
+  },
+  {
+    "name": "Philadelphia Eagles Victory Parade",
+    "place": "Philadelphia",
+    "lat": 39.9526,
+    "lng": -75.1652,
+    "youtubeId": "N900kBacI14",
+    "isHot": false
+  },
+  {
+    "name": "in 4K: New Year's 2018 Webcast from Times Square",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "wpFNSF9Q_ec",
+    "isHot": false
+  },
+  {
+    "name": "in 4K: New Year's 2018 in Times Square",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "UAoE6f6BlZI",
+    "isHot": false
+  },
+  {
+    "name": "Houston Astros Victory Parade",
+    "place": "Houston",
+    "lat": 29.7604,
+    "lng": -95.3698,
+    "youtubeId": "O5o-c_ccQUU",
+    "isHot": false
+  },
+  {
+    "name": "Columbus Day Parade",
+    "place": "Columbus Day Parade",
+    "lat": 26.5,
+    "lng": -79.2,
+    "youtubeId": "O277MA-XaVQ",
+    "isHot": false
+  },
+  {
+    "name": "Breckenridge Ski Cam",
+    "place": "Breckenridge",
+    "lat": 39.4817,
+    "lng": -106.0384,
+    "youtubeId": "LqR4FZJTGqg",
+    "isHot": false
+  },
+  {
+    "name": "Cancun Cam",
+    "place": "Cancun",
+    "lat": 21.1619,
+    "lng": -86.8515,
+    "youtubeId": "oCCFfMlI7Io",
+    "isHot": false
+  },
+  {
+    "name": "Myrtle Beach Cam",
+    "place": "Myrtle Beach",
+    "lat": 33.6891,
+    "lng": -78.8867,
+    "youtubeId": "xn7t5kQ21Es",
+    "isHot": false
+  },
+  {
+    "name": "Las Vegas Sign Cam",
+    "place": "Las Vegas",
+    "lat": 36.1699,
+    "lng": -115.1398,
+    "youtubeId": "EcM9m7Eo0u4",
+    "isHot": false
+  },
+  {
+    "name": "Amman Cam",
+    "place": "Amman",
+    "lat": 31.9454,
+    "lng": 35.9284,
+    "youtubeId": "uSRuS6mN3bU",
+    "isHot": false
+  },
+  {
+    "name": "San Francisco Bayfront Cam",
+    "place": "San Francisco Bayfront Cam",
+    "lat": 26.2,
+    "lng": -106.2,
+    "youtubeId": "ZEuT7E8orjw",
+    "isHot": false
+  },
+  {
+    "name": "Cleveland Cam",
+    "place": "Cleveland",
+    "lat": 41.4993,
+    "lng": -81.6944,
+    "youtubeId": "slJKmz9XsIU",
+    "isHot": false
+  },
+  {
+    "name": "Wrigleyville Cam",
+    "place": "Wrigleyville",
+    "lat": 41.9484,
+    "lng": -87.6553,
+    "youtubeId": "5QEQzojkXKM",
+    "isHot": false
+  },
+  {
+    "name": "Statue of Liberty NYC Harbor Cam",
+    "place": "Statue of Liberty, NY",
+    "lat": 40.6892,
+    "lng": -74.0445,
+    "youtubeId": "Qk8pA1UWNNo",
+    "isHot": false
+  },
+  {
+    "name": ": Times Square Live",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "KaEU5MNdrp4",
+    "isHot": false
+  },
+  {
+    "name": "From Dublin – Happy St. Patrick’s Day from EarthCam",
+    "place": "Dublin",
+    "lat": 53.3498,
+    "lng": -6.2603,
+    "youtubeId": "tBuwrohyGZ8",
+    "isHot": false
+  },
+  {
+    "name": "Live from New York City: St. Patrick’s Day Parade…",
+    "place": "New York",
+    "lat": 40.7128,
+    "lng": -74.006,
+    "youtubeId": "xju2X1FgT9E",
+    "isHot": false
+  },
+  {
+    "name": "New Year’s Eve - Times Square in 4K – EarthCam",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "xWmgUvSPDJM",
+    "isHot": false
+  },
+  {
+    "name": "New Year’s Eve - Times Square in 4K – EarthCam",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "Vhytzr0zdm8",
+    "isHot": false
+  },
+  {
+    "name": "New Year’s Eve - Times Square Celebrations – Eart…",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "CwLzMi2g1gU",
+    "isHot": false
+  },
+  {
+    "name": "New Year’s Eve - Times Square Crossroads – EarthCam",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "WLiGXv6sCuw",
+    "isHot": false
+  },
+  {
+    "name": "New Year’s Eve - Times Square Street Cam – EarthCam",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "62jyxT5Un98",
+    "isHot": false
+  },
+  {
+    "name": "NYC's Times Square!",
+    "place": "Times Square, NYC",
+    "lat": 40.758,
+    "lng": -73.9855,
+    "youtubeId": "2YUhl395GP4",
+    "isHot": false
   }
 ]
