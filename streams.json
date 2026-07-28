@@ -1,14 +1,14 @@
 [
   {
-    "name": "Times Square Live Cam",
+    "name": "Times Square & Global Live Cam",
     "lat": 40.7580,
     "lng": -73.9855,
     "playlistId": "UULFgpxm_q7_nSstLInP_FmOA"
   },
   {
-    "name": "Shibuya Crossing Live",
-    "lat": 35.6595,
-    "lng": 139.7004,
-    "playlistId": "UULFnSstLInP_FmOA_Demo"
+    "name": "Boston & New England Live Cam",
+    "lat": 42.3601,
+    "lng": -71.0589,
+    "playlistId": "UULF8gbWbcNNyb5-NIXvFklkOA"
   }
 ]
