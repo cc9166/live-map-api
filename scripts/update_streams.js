@@ -11,7 +11,7 @@ const REJECTED_FILE = path.join(ROOT, "rejected_streams.json");
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || "";
 const MAX_FAIL_COUNT = Number(process.env.MAX_FAIL_COUNT || 2);
 const HLS_TIMEOUT_MS = Number(process.env.HLS_TIMEOUT_MS || 5000);
-const YOUTUBE_DISCOVERY_PER_KEYWORD = Number(process.env.YOUTUBE_DISCOVERY_PER_KEYWORD || 10);
+const YOUTUBE_DISCOVERY_PER_KEYWORD = Number(process.env.YOUTUBE_DISCOVERY_PER_KEYWORD || 25);
 const ENABLE_YOUTUBE_DISCOVERY = process.env.ENABLE_YOUTUBE_DISCOVERY !== "0";
 
 function readJSON(file, fallback) {
@@ -107,10 +107,17 @@ async function fetchJSON(url) {
 async function discoverYouTubeByKeywords(seeds) {
   if (!YOUTUBE_API_KEY || !ENABLE_YOUTUBE_DISCOVERY) return [];
 
-  const keywords = Array.isArray(seeds.youtubeKeywords) ? seeds.youtubeKeywords : [];
+  const keywordSearches = Array.isArray(seeds.youtubeKeywords)
+    ? seeds.youtubeKeywords.map((q) => ({ q }))
+    : [];
+  const geoSearches = Array.isArray(seeds.youtubeSearches) ? seeds.youtubeSearches : [];
+  const searches = [...keywordSearches, ...geoSearches];
   const discovered = [];
 
-  for (const q of keywords) {
+  for (const search of searches) {
+    const q = typeof search === "string" ? search : trim(search.q);
+    if (!q) continue;
+    const hasSearchCoordinate = Number.isFinite(Number(search.lat)) && Number.isFinite(Number(search.lng));
     const params = new URLSearchParams({
       key: YOUTUBE_API_KEY,
       part: "snippet",
@@ -126,13 +133,17 @@ async function discoverYouTubeByKeywords(seeds) {
         const videoId = entry.id && entry.id.videoId;
         if (!videoId) continue;
         const snippet = entry.snippet || {};
+        if (!hasSearchCoordinate) {
+          console.warn(`YouTube 关键词缺少坐标，跳过新增：${q} / ${trim(snippet.title) || videoId}`);
+          continue;
+        }
         discovered.push({
           id: videoId,
           name: trim(snippet.title) || "Live Cam",
-          place: trim(snippet.channelTitle) || "YouTube Live",
-          category: "YouTube",
-          lat: 0,
-          lng: 0,
+          place: trim(search.place) || trim(snippet.channelTitle) || "YouTube Live",
+          category: trim(search.category) || "YouTube",
+          lat: Number(search.lat) || 0,
+          lng: Number(search.lng) || 0,
           youtubeId: videoId,
           playlistId: "",
           m3u8Url: "",
@@ -247,7 +258,7 @@ async function checkYouTube(items) {
   for (const ids of chunk(Array.from(byId.keys()), 50)) {
     const params = new URLSearchParams({
       key: YOUTUBE_API_KEY,
-      part: "status,snippet,liveStreamingDetails,contentDetails",
+      part: "status,snippet,liveStreamingDetails,contentDetails,statistics",
       id: ids.join(",")
     });
 
@@ -290,7 +301,19 @@ async function checkYouTube(items) {
       } else if (live.actualEndTime) {
         results.set(sourceKey(item), { ok: false, reason: "YouTube 直播已结束" });
       } else {
-        results.set(sourceKey(item), { ok: true, reason: "YouTube 元数据检测通过" });
+        const concurrent = live.concurrentViewers ? Number(live.concurrentViewers) : 0;
+        const viewCount = entry.statistics && entry.statistics.viewCount ? Number(entry.statistics.viewCount) : 0;
+        results.set(sourceKey(item), {
+          ok: true,
+          reason: "YouTube 元数据检测通过",
+          title: trim(entry.snippet && entry.snippet.title),
+          channelTitle: trim(entry.snippet && entry.snippet.channelTitle),
+          coverImageURL: entry.snippet && entry.snippet.thumbnails && entry.snippet.thumbnails.medium
+            ? entry.snippet.thumbnails.medium.url
+            : "",
+          views: concurrent > 0 ? `${concurrent} watching` : (viewCount > 0 ? `${viewCount} views` : ""),
+          isHot: concurrent >= 50 || viewCount >= 10000
+        });
       }
     }
   }
@@ -437,7 +460,7 @@ async function main() {
         lastCheckedAt: nextHealth.lastCheckedAt
       });
     } else {
-      accepted.push(item);
+      accepted.push(enrichAcceptedItem(item, checkResult));
     }
   }
 
@@ -447,6 +470,22 @@ async function main() {
   writeJSON(REJECTED_FILE, rejected);
 
   console.log(`生成完成：正式源 ${accepted.length}，隐藏坏源 ${rejected.length}`);
+}
+
+function enrichAcceptedItem(item, checkResult) {
+  if (!checkResult || !checkResult.ok) return item;
+  const title = trim(checkResult.title);
+  const place = trim(checkResult.channelTitle);
+  const coverImageURL = trim(checkResult.coverImageURL);
+  const views = trim(checkResult.views);
+  return {
+    ...item,
+    name: title || item.name,
+    place: item.place && item.place !== "YouTube Live" ? item.place : (place || item.place),
+    coverImageURL: coverImageURL || item.coverImageURL,
+    views: views || item.views,
+    isHot: item.isHot || checkResult.isHot === true
+  };
 }
 
 main().catch((error) => {
