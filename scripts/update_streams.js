@@ -145,6 +145,27 @@ function classifyYouTubeEmbedHTML(html) {
   return "";
 }
 
+function normalizeLocationRadius(value) {
+  const radius = trim(value);
+  if (!radius) return "";
+  return /^\d+(\.\d+)?(m|km|ft|mi)$/i.test(radius) ? radius : "";
+}
+
+function searchTextMatches(snippet, search) {
+  const words = Array.isArray(search.matchWords)
+    ? search.matchWords.map(trim).filter(Boolean)
+    : [];
+  if (!words.length) return true;
+
+  const text = [
+    snippet.title,
+    snippet.channelTitle,
+    snippet.description
+  ].map(trim).join(" ").toLowerCase();
+
+  return words.some((word) => text.includes(word.toLowerCase()));
+}
+
 async function checkYouTubeEmbedItem(item) {
   const startedAt = Date.now();
   const videoId = trim(item.youtubeId);
@@ -230,6 +251,7 @@ async function discoverYouTubeByKeywords(seeds) {
     const q = typeof search === "string" ? search : trim(search.q);
     if (!q) continue;
     const hasSearchCoordinate = Number.isFinite(Number(search.lat)) && Number.isFinite(Number(search.lng));
+    const locationRadius = hasSearchCoordinate ? normalizeLocationRadius(search.locationRadius) : "";
     const params = new URLSearchParams({
       key: YOUTUBE_API_KEY,
       part: "snippet",
@@ -238,6 +260,10 @@ async function discoverYouTubeByKeywords(seeds) {
       maxResults: String(YOUTUBE_DISCOVERY_PER_KEYWORD),
       q
     });
+    if (locationRadius) {
+      params.set("location", `${Number(search.lat)},${Number(search.lng)}`);
+      params.set("locationRadius", locationRadius);
+    }
 
     try {
       const data = await fetchJSON(`https://www.googleapis.com/youtube/v3/search?${params}`);
@@ -245,6 +271,10 @@ async function discoverYouTubeByKeywords(seeds) {
         const videoId = entry.id && entry.id.videoId;
         if (!videoId) continue;
         const snippet = entry.snippet || {};
+        if (!searchTextMatches(snippet, search)) {
+          console.warn(`YouTube 搜索结果与地点不匹配，跳过：${q} / ${trim(snippet.title) || videoId}`);
+          continue;
+        }
         if (!hasSearchCoordinate) {
           console.warn(`YouTube 关键词缺少坐标，跳过新增：${q} / ${trim(snippet.title) || videoId}`);
           continue;
