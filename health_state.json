@@ -2,3601 +2,3937 @@
   "hls:https://gcalic.v.myalicdn.com/gc/ylxs12_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 191,
-    "lastCheckedAt": "2026-09-01T08:29:57.056Z"
+    "lastCheckMs": 1483,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hsxhdxg_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 143,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 1432,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/tyhjtys_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 158,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 1433,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 159,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 1457,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/dhyyqsm_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 142,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 1879,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 159,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 2841,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 158,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 2081,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 159,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 2034,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 145,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 2298,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 119,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 2436,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 156,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 2507,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hkylxs03_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 155,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 2480,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 121,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 1484,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/zh03_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 79,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 365,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 85,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 345,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/drs01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 36,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 376,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 132,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 363,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 68,
-    "lastCheckedAt": "2026-09-01T08:29:57.069Z"
+    "lastCheckMs": 371,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 78,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 355,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/djyqyl1_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 73,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 1049,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 150,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 383,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 141,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 356,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 127,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 367,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hssxf_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 41,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 369,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/gllj01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 82,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 330,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 77,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 333,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/lpsgmjng01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 76,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 359,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 116,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 347,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 25,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 344,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 75,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 375,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/xjtcdhsz_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 73,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 386,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/xjtcdgs_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 70,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 402,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hgsspzxdpb_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 76,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 370,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 75,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 355,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 74,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 347,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/xjtcmys_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 77,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 350,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 96,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 325,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 86,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 341,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 79,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 350,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 68,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 375,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 74,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 372,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 70,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 331,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 91,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 379,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 72,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 368,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 77,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 368,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hkylxs06_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 71,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 350,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 95,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 367,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 92,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 349,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/ljgcwglytylxs_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 85,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 359,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 75,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 347,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 90,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 357,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 94,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 372,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 84,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 375,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/mdjxxdsb_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 103,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 324,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 26,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 314,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 80,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 975,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "hls:https://gcalic.v.myalicdn.com/gc/hkylxs05_1/index.m3u8": {
     "ok": true,
     "failCount": 0,
-    "successCount": 1,
+    "successCount": 2,
     "lastReason": "HLS 检测通过",
-    "lastCheckMs": 69,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckMs": 347,
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:kwEzXL6ePoE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:cJ7p6dEc_Yw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:ATi3zih-tu8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:YHRYOL03ydw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:AIwsO8sB0LM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:VWDi2Po3ZsQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:cK71xhMRtds": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:_Hot1aH7W_E": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:mIR_RCyDL_w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:zu-I5jNHIxI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:XIe9vQkAd7Q": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:JQ_jwk_7OVE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:sLRtUoPNH2k": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.017Z"
   },
   "youtube:IU_-Pl9O5jQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:F1EQEDL4ddU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:iqdRLSdSjWI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:9mMnqO1UuIU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:qsrevo5Vdkw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:4LTSTw4jnZc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:z-jYdOIKcTQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:5C9oM7C2Q9k": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:C32EiZiQPkQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:KSxc-N67TU4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:oDCAAfOSqvA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:mjzA1Yxh7ZY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:kLoFxVhRWtQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:cWR8KGKftUw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:XoANQufSSXY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MT5Og9gOKuM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:O0UGT7AT3aw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:iHqqkh_Lths": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:0ZzPWoeZzuI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:H67j7H-7QD0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:YEAhxXd-TiY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:qx7gry390YA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:sF5hFDGN20Y": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:_rmUXOHSf0w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:skM8DTCx3gM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:t55kv94nEzc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:PMhVgTcDd1o": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:KJuGU7v5oYw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:9fzUjSTK5F8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:2_PDaUJbfuI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MsiHVaomJ04": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:77akujLn4k8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Ksrleaxxxhw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:3nyPER2kzqk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:M3EYAY2MftI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:I2Id_FgfW9A": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:hRp3RReWae4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MSOomqI01uU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:EKG1UaTgMeE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:ty_9PNJG5pw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:THpdh5VddvA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:nmrApVyrBIw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:vTaJjIttrZU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:VlY0hPrnIUg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:H56KDRAEvok": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:EdFaTPDGyI0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MsRyrYYGrRU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:0vkld4n1a7o": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:neTPjjYfyh0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:jSYFZB_cHOw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:LePu-6viUX0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:4Kzf4gZbc60": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MmR-7f7sQEw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:bzle7xGLveI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Q9EN-i10OOg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:CZnY66m0Xiw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:tEpSiXnqS7w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:AeNSAOVUbEM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:O0du5kMKHMk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:pFebijydkDM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:4P7NhwmwQ5w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Izrwa8E8ozc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:JHpJvvn9hvk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:xI_AHGdmh9A": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:oQGO1s75UPo": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:DX016HDedz8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:5o59zyi7EyA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:EvGaSRT82E8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:POgVGUAxNcs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:nNkSMJP0Tyg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:C0c3Evh5v0g": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:IZv2YKOM-zU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:E5OQ7wV8Ttc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:mcuxKh7Nc80": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:gLNhly1TLds": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Tut6oLUKaH4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:gnvk3vjhay8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:AEOgBCHvxFs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:i1ELvajCKzM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:RyAqbFNSl0I": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:dXZmdEYpYKM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:zM064OHpbno": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:1ziciboPx7w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:QsCb5D_cb54": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:lopdIY6nVIs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:RdlaihsKnZc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:uNhA7NtLHcY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:YFIbDhvYXbg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:FaU5yL1gArw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:o41HD4IiWoA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:kpGIo_HyKv0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:_sOQkz1xgKc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:PGrq-2mju2s": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:ThZhEyEi-hk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:SdKQwO5Qwic": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:UtwnO9WQRJs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.070Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Ia7KWuogSEk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:M9z5cNyrLxs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:FKND5vRd4PU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:fmGPepxscD8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Do5uGMQoK3M": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:PzuPSmvNLWQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Xf5lpRkveLs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:N900kBacI14": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:wpFNSF9Q_ec": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:UAoE6f6BlZI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:O5o-c_ccQUU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:O277MA-XaVQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:LqR4FZJTGqg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:oCCFfMlI7Io": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:xn7t5kQ21Es": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:EcM9m7Eo0u4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:uSRuS6mN3bU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:ZEuT7E8orjw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:slJKmz9XsIU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:5QEQzojkXKM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Qk8pA1UWNNo": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:KaEU5MNdrp4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:tBuwrohyGZ8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:xju2X1FgT9E": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:xWmgUvSPDJM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Vhytzr0zdm8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:CwLzMi2g1gU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:WLiGXv6sCuw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:62jyxT5Un98": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:2YUhl395GP4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Y6VDEB_xGw4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:2lRbwu4TVtA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:LwzKzhHb0XM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:nVVVtJ-4g_Q": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:dtIcEq1itmU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:mfmgY3Hr6H0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:WKKAhF7bXN0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:f5D4lPET76s": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Uws0WJaSlRw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:3UeaOmWQsms": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:RKbAo44ZxH4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:QVWs7MvZoxg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:OaDGC8RwMWw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:_jgQnq-ep0w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:b6AxHaVojFQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:xROnFN6dIZQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:OjVFvL3uH9A": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:dWfYJUSiW6w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:yGLI83HgsMw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:InYOVxGg_uI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:iAut_76pvXk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:GbpxtPr-aI0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:NMsh1qyZPXQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:fLT0G1R9S5o": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Qx8VSm-Hj7I": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:cCg-J04fSuQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:1o39CobYA7Y": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:M6LiCaJKfMA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:3w3tepBwtRI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MdvYWiKNhG0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:HbM0rE2KGJs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:lzHbycN2CmY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:_j1qgdMnifk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:V5ZGle1_tAI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:JhzmoVE_Xag": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:ruOup5hIl1o": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:3LGd6K_IKKo": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:CvB0IlreyFQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:qA9hUzUslkU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:nYZ9gMtyQCQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:oezcsH9ZZ24": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Jq-5u9NNZiM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:p-pVYYH4ZCk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:bys52kM3Nzc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:AiNCbGzabVo": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:x_ruIH2UmjQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:hZJLS6Fu1JE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:2kJOvUm17fQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:-uE-gOt6shs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:T7YOHk9wGIg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MOBWD8WBiD4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:BIno8_T0uKc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:ejDld-hWwiU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:RH9wCBhxkxM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:LkZZTkRHLVQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:PoZ1Hy7PQig": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:DTlS71DA-es": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:HERP-WFHLCM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:2XptTNJC0ZU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:gzUonydhf7E": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Sk1vBzY2BjE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:QcNfT_tvkyI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:wuPEBUNnATE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:MnBqd6bB4Jw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:2Ack58jjvlE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:dk8UdsE-BNQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:7ycQbawSUNU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:e3AB9nAhqjA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:djeIw7J94kY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Y8NTocYdCRY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:H8bFFw-0ZQE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:3fRudUgVhbA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:9Ah3utsQXkQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:L5PXjssNFqc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:OteVW3af3BU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:catvjIWNrZg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 未处理完成：uploaded",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:N8wJ9ansKRI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:n-fY4Fw-g6k": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:haklUuJQK5g": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:_YWBGEhazds": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:-Unke7DZvsE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:2SxlBUDydSY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:BkwE-ErIjWA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:1XqJIRtLhwA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:j7lDhyr-nEU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:vqj7S7_Y9-8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:_Lelw2kDrXI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:ijd9d0Gsg1U": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:o9j8wQNH7lw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:yKNetuw_9NA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.018Z"
   },
   "youtube:Ed6DgeFWPho": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:2kULnqNhNvU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:a8V-qfiH4Bc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:D5_DG1X0PYs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:ATKv9g4TmgA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:pHlLN7H-pHI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:mqpaoLLwVdc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:6-0h72l8_hE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:9IsQGf33rBQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:BVAV4I3nyAE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Qf5b1byg3KE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:zAGclG0E53Y": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:9eq91c97o9U": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:lhg00Tzy1m0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:apteQsVCDh4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:MHy1JJOJrGM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:2v0MiPGp5u8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:vIdj9nPO8Io": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:FQbDnFJ9QGE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:XcVQPm40ZC4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:pAw8MIT2f9E": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:E-qjtrohzn0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:s0v9rNHzJfA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:esbvJil_8D4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Byc1K5fDfAE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:56zZd_ln43c": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:EqM_ZqFz-UA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:wHZl3i0ikug": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:G_BUyVtfLFA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:uFtEVymGW5Y": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:LrMRucACM5k": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:XOPvDfrSt18": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:NFoNsDEKRXc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:P5JJp_tBxUQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:N0TzCfjVGPs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:HE4v4UaZVP8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:6_u660U0Gpc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Sg8W717o11w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:2FPJbTOO-60": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:9GnEebGPyB0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:G4WQ-3syoHI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:rBLWsI7Dshg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Zcr3WYE1hUA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:D1IfbMheB0E": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:hANc55sYbCA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:KfZhF8n1sd8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:B_oEGtBjsr4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:2AmpYRQch0Q": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:rITYktQLbs4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:u6vfQ11sGkI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:YniijzUDquI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:cq9i7u_t75k": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:faj59imPSqM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:H1eXNHSK2DQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:RKHK3yRn9Z8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:35tBZT48d5k": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.071Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:TxUBxvCOGFg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:jVUME0UeeFA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:ffsRHCxaMj0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:fuW3HgJyo5A": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:m9PwjF0d6fI": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:n1D4sbUgsKM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:XUT8Yu5PCbs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:ubtLgIveq7M": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:mi2YHMM_h7Q": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:LQoRiG2Unvo": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Uxy_Imapwxg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:fom4uSHBI7c": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:iu-uUALs1Dg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:PSdf8MMl_I0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:8stVTpeTLGk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:ecmU-Bu00jM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:a2PP_0lOvbc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:QQSANy97yIE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:1oD5dQPXr1Q": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:E6ygWAeiU0w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:eT1ljeah3tU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:urfDurnXBtY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:ryr6tDIlGm4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:GLKhXxwfbew": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:z_9WSFjY3tA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:80e0WcxzT2M": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:9lBuglVnBT8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:zbh87Q0DnGw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:dfdu6fpQwBw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:CtSkP7MyOOs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:9pwcu7OZptQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Ipi36tDtuto": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:63_ulXaQlfk": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Pvgu4mE61YA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:qACO-rv8Udc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:_ofo4uNIfWc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:q19SNvh4X90": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:i3Cp30XfWlc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:O9EFZPBZ_EA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:aGo8XsPq4U0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Hv16DOpBlnw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:x2jy8lBhM6A": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:xl3CmD7ixbE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:X94tcxlG6W8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:wlJRoBGt6cY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:1nlnw5Y7tSQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:n1MFWZEEG4M": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:4ZiM88xkb-8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:NEZP1Q6ocP8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:okcTWf74_Ng": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:dQlqhdiiDZc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:cWAWVKCKgH8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:cob1gPWTKnQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:5Zqmbpxsc1k": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:92ExsRO3flA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Ls-KgtLQnbQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Azn1ESm_Vnw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:O8nIUrHu1q0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:ViUK5CoSE9s": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:fSaGibjK7Bw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:lGJC8ImXgnY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:C50G2g0TA-w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:HmRrFJRfTDA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:M1HEjXh-Vtc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:pO_cu7Uf78w": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:J5O3x-fe4z0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:dnyP6c5WcE4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:2q5_Y73t3wU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Dv9UYsKzdHo": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:OAggvRCDw_U": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:aHxnybBMAII": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:DPsAew7jUF0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:vQg7OAVLLJU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:BKLWFzqTMHU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:fHPe6j-GUcg": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:zar2sJP6NlU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:KKbh-doS27M": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:fhLMzBJ-P8U": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:AOIFgJJJark": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:t-D0Ghxu76Q": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:wLGArFKjG5o": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:vEV1o0GfC5g": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:7sEhGJOaG6U": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:bau64l5JZnA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:WVPF1-Pgt_8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:PyzRzHm0aGw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:cSIpNHBQRHM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:htovGfhZmG0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:bZK4BYrHS3U": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:TFU0kO5fHl0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:pfnVWKJ8DfE": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:OnHaT0IV5aY": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:aUsuRJr0atw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Qrxl7V6zXaw": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:ojLuXJXYYvA": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:rYL75SoIil8": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:-AbpmCVDUTQ": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:O87J8rOeDMs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:THPyd0gCCKM": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:_DH36cDGnDU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:dTc5kSQEsB0": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:jFVlFDqZfLc": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:FcGfL9JKaB4": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:SwDqOWtqwco": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:7QesXGCQ7no": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:Tj9W-yXdRqU": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:yqqNndQAzgs": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   },
   "youtube:SQKsC4CxV28": {
-    "ok": true,
-    "failCount": 0,
+    "ok": false,
+    "failCount": 1,
     "successCount": 0,
-    "lastReason": "未配置 YOUTUBE_API_KEY，保留现有 YouTube 源",
+    "lastReason": "YouTube 直播已结束",
     "lastCheckMs": 0,
-    "lastCheckedAt": "2026-09-01T08:29:57.072Z"
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:VGnFLdQW39A": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:EFum1rGUdkk": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:EO_1LWqsCNE": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:pisk_b_LjBU": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:i10aOLMK76k": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:xeQJBMx2abw": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:xdR31xv7il0": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:cWd_niy8Rz8": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:_BMi3usEwi8": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:Thtj8Ht7Z_c": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:hm9iAviOZ20": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:pXx3YQVSUGg": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:rdeoEeJ00xA": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:_Zqi24i0fl4": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:cmkAbDUEoyA": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:loHbMM9JfCs": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:bZ4uxyLqV-E": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:n4I0d44oBEs": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:V7_orOtu-oo": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:OUBslrCqREs": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:FNtr2igI7e8": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:KzsNnyN8D_Q": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:67BCsiW-1Io": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:MH0_mPt-VXE": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:2IQmpCXbOmM": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:N6CvcuIszbA": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:fFl0qD108sk": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:_k-5U7IeK8g": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:DjdUEyjx8GM": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:dfVK7ld38Ys": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:ErHJBXTmm2Q": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:hlbh4P0Mz8M": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:6dp-bvQ7RWo": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:GLQhbRGv5qU": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:pzyA9gFHlJg": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:VM18f-IIUTw": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:gFRtAAmiFbE": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:l7b5RFAkKhY": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:Zmmskdpi4QE": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:dD5BV_lH-0w": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:VrhYz4CL70I": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
+  },
+  "youtube:R2jNOtYEwdI": {
+    "ok": false,
+    "failCount": 1,
+    "successCount": 0,
+    "lastReason": "YouTube 未处理完成：uploaded",
+    "lastCheckMs": 0,
+    "lastCheckedAt": "2026-09-01T09:36:24.019Z"
   }
 }
