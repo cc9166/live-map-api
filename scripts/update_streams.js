@@ -11,8 +11,11 @@ const REJECTED_FILE = path.join(ROOT, "rejected_streams.json");
 const YOUTUBE_API_KEY = process.env.YOUTUBE_API_KEY || "";
 const MAX_FAIL_COUNT = Number(process.env.MAX_FAIL_COUNT || 2);
 const HLS_TIMEOUT_MS = Number(process.env.HLS_TIMEOUT_MS || 5000);
+const YOUTUBE_EMBED_PROBE_TIMEOUT_MS = Number(process.env.YOUTUBE_EMBED_PROBE_TIMEOUT_MS || 8000);
+const YOUTUBE_EMBED_PROBE_CONCURRENCY = Number(process.env.YOUTUBE_EMBED_PROBE_CONCURRENCY || 8);
 const YOUTUBE_DISCOVERY_PER_KEYWORD = Number(process.env.YOUTUBE_DISCOVERY_PER_KEYWORD || 25);
 const ENABLE_YOUTUBE_DISCOVERY = process.env.ENABLE_YOUTUBE_DISCOVERY !== "0";
+const ENABLE_YOUTUBE_EMBED_PROBE = process.env.ENABLE_YOUTUBE_EMBED_PROBE !== "0";
 
 function readJSON(file, fallback) {
   try {
@@ -102,6 +105,115 @@ async function fetchJSON(url) {
   });
   if (!response.ok) throw new Error(`HTTP ${response.status}`);
   return response.json();
+}
+
+async function fetchTextWithTimeout(url, timeoutMs) {
+  const controller = new AbortController();
+  const timeout = setTimeout(() => controller.abort(), timeoutMs);
+  try {
+    const response = await fetch(url, {
+      signal: controller.signal,
+      headers: {
+        "User-Agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 17_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.0 Mobile/15E148 Safari/604.1",
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "en-US,en;q=0.9,zh-CN;q=0.8",
+        "Referer": "https://www.youtube.com/"
+      }
+    });
+    const text = await response.text();
+    return { status: response.status, ok: response.ok, text };
+  } finally {
+    clearTimeout(timeout);
+  }
+}
+
+function classifyYouTubeEmbedHTML(html) {
+  const text = trim(html);
+  if (!text) return "";
+  const low = text.toLowerCase();
+
+  if (low.includes("playback on other websites has been disabled")) return "YouTube 不允许嵌入播放";
+  if (low.includes("video unavailable") || low.includes("this video is unavailable")) return "YouTube 视频不可播放";
+  if (low.includes("private video")) return "YouTube 私密视频";
+  if (low.includes("members-only") || low.includes("members only")) return "YouTube 会员专属，可能需要登录";
+  if (low.includes("not available in your country") || low.includes("not available in your region")) return "YouTube 地区限制";
+  if (low.includes("confirm your age") || low.includes("age-restricted")) return "YouTube 年龄限制，需要登录";
+  if (low.includes("sign in to confirm") || low.includes("sign in to continue") || low.includes("sign in to youtube")) return "YouTube 嵌入页要求登录";
+  if (low.includes("not a bot") || low.includes("unusual traffic")) return "YouTube 机器人验证，需要登录";
+  if (text.includes("登录以确认") || text.includes("登入以確認") || text.includes("ログインして確認") || text.includes("로그인하여 확인")) return "YouTube 嵌入页要求登录";
+
+  return "";
+}
+
+async function checkYouTubeEmbedItem(item) {
+  const startedAt = Date.now();
+  const videoId = trim(item.youtubeId);
+  if (!videoId) return { ok: true, skipped: true, reason: "不是 YouTube 视频源" };
+
+  const params = new URLSearchParams({
+    playsinline: "1",
+    autoplay: "0",
+    mute: "1",
+    rel: "0",
+    controls: "0",
+    disablekb: "1",
+    fs: "0",
+    iv_load_policy: "3",
+    modestbranding: "1"
+  });
+
+  try {
+    const result = await fetchTextWithTimeout(`https://www.youtube.com/embed/${videoId}?${params}`, YOUTUBE_EMBED_PROBE_TIMEOUT_MS);
+    const elapsedMs = Date.now() - startedAt;
+
+    if (result.status === 429 || result.status >= 500) {
+      return { ok: true, skipped: true, elapsedMs, reason: `YouTube embed 探测临时不可用，暂时保留：HTTP ${result.status}` };
+    }
+    if (!result.ok) {
+      return { ok: false, elapsedMs, reason: `YouTube embed HTTP ${result.status}` };
+    }
+
+    const reason = classifyYouTubeEmbedHTML(result.text);
+    if (reason) return { ok: false, elapsedMs, reason };
+    return { ok: true, elapsedMs, reason: "YouTube embed 页面探测通过" };
+  } catch (error) {
+    const elapsedMs = Date.now() - startedAt;
+    const reason = error.name === "AbortError"
+      ? `YouTube embed 探测超时 ${YOUTUBE_EMBED_PROBE_TIMEOUT_MS}ms`
+      : `YouTube embed 探测失败：${error.message}`;
+    return { ok: true, skipped: true, elapsedMs, reason };
+  }
+}
+
+async function checkYouTubeEmbeds(items) {
+  const videoItems = Array.from(new Map(
+    items
+      .filter((item) => trim(item.youtubeId))
+      .map((item) => [trim(item.youtubeId), item])
+  ).values());
+  const results = new Map();
+  if (!ENABLE_YOUTUBE_EMBED_PROBE || !videoItems.length) return results;
+
+  let index = 0;
+  async function worker() {
+    while (index < videoItems.length) {
+      const item = videoItems[index++];
+      const result = await checkYouTubeEmbedItem(item);
+      results.set(sourceKey(item), result);
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(YOUTUBE_EMBED_PROBE_CONCURRENCY, videoItems.length) }, worker));
+
+  const failed = Array.from(results.values()).filter((result) => !result.ok);
+  const loginFailed = failed.filter((result) => /登录|机器人验证|age|sign in|bot/i.test(result.reason || ""));
+  if (loginFailed.length > Math.max(20, Math.floor(videoItems.length * 0.5))) {
+    console.warn(`YouTube embed 探测疑似被平台整体拦截：登录类失败 ${loginFailed.length}/${videoItems.length}，本轮忽略 embed 探测结果`);
+    return new Map();
+  }
+
+  console.log(`YouTube embed 探测完成：检测 ${videoItems.length}，失败 ${failed.length}`);
+  return results;
 }
 
 async function discoverYouTubeByKeywords(seeds) {
@@ -430,9 +542,10 @@ async function main() {
 
   console.log(`源合并完成：现有 ${existing.length}，历史全量 ${previousAll.length}，种子 ${seedItems.length}，新抓取 ${discovered.length}，去重后 ${allItems.length}`);
 
-  const [youtubeResults, hlsResults] = await Promise.all([
+  const [youtubeResults, hlsResults, youtubeEmbedResults] = await Promise.all([
     checkYouTube(allItems),
-    checkHLS(allItems)
+    checkHLS(allItems),
+    checkYouTubeEmbeds(allItems)
   ]);
 
   const health = {};
@@ -443,6 +556,10 @@ async function main() {
     let checkResult = youtubeResults.get(sourceKey(item))
       || hlsResults.get(sourceKey(item))
       || { ok: true, skipped: true, reason: "无需检测，保留" };
+    const embedResult = youtubeEmbedResults.get(sourceKey(item));
+    if (checkResult.ok && embedResult && !embedResult.ok) {
+      checkResult = embedResult;
+    }
 
     if (isBlacklisted(item, blacklist)) {
       checkResult = { ok: false, reason: "命中黑名单" };
