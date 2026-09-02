@@ -967,22 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "woID4gJez9E",
-    "name": "LIVE LOS ANGELES - TUESDAY HOLLYWOOD WALKABOUT -LA LIVE CAM",
-    "place": "Los Angeles",
-    "category": "City",
-    "lat": 34.0522,
-    "lng": -118.2437,
-    "youtubeId": "woID4gJez9E",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/woID4gJez9E/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=woID4gJez9E",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
