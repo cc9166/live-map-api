@@ -967,22 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "SsdYTZ5WFCY",
-    "name": "LIVE - HOLLYWOOD WALK - LOS ANGELES CALIFORNIA - LA LIVE CAM",
-    "place": "Los Angeles",
-    "category": "City",
-    "lat": 34.0522,
-    "lng": -118.2437,
-    "youtubeId": "SsdYTZ5WFCY",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/SsdYTZ5WFCY/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=SsdYTZ5WFCY",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]

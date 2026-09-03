@@ -969,6 +969,23 @@
     "pinNumber": 0
   },
   {
+    "id": "SsdYTZ5WFCY",
+    "name": "LIVE - HOLLYWOOD WALK - LOS ANGELES CALIFORNIA - LA LIVE CAM",
+    "place": "Los Angeles",
+    "category": "City",
+    "lat": 34.0522,
+    "lng": -118.2437,
+    "youtubeId": "SsdYTZ5WFCY",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/SsdYTZ5WFCY/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=SsdYTZ5WFCY",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
     "id": "woID4gJez9E",
     "name": "LIVE LOS ANGELES - TUESDAY HOLLYWOOD WALKABOUT -LA LIVE CAM",
     "place": "Los Angeles",
@@ -13000,23 +13017,6 @@
     "windyPlayerURL": "",
     "coverImageURL": "https://i.ytimg.com/vi/R2jNOtYEwdI/mqdefault_live.jpg",
     "detailURL": "https://www.youtube.com/watch?v=R2jNOtYEwdI",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "SsdYTZ5WFCY",
-    "name": "LIVE - HOLLYWOOD WALK - LOS ANGELES CALIFORNIA - LA LIVE CAM",
-    "place": "Los Angeles",
-    "category": "City",
-    "lat": 34.0522,
-    "lng": -118.2437,
-    "youtubeId": "SsdYTZ5WFCY",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/SsdYTZ5WFCY/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=SsdYTZ5WFCY",
     "views": "",
     "isHot": false,
     "pinNumber": 0
