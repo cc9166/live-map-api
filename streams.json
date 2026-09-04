@@ -967,22 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "ZXN0pnsm6mc",
-    "name": "LIVE LOS ANGELES - DTLA ART WALK  - LA LIVE CAM",
-    "place": "Los Angeles",
-    "category": "City",
-    "lat": 34.0522,
-    "lng": -118.2437,
-    "youtubeId": "ZXN0pnsm6mc",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/ZXN0pnsm6mc/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=ZXN0pnsm6mc",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
