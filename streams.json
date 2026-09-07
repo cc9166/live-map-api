@@ -967,5 +967,22 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
+  },
+  {
+    "id": "AoWlXqIXNZ8",
+    "name": "London Bridge / River Thames Live Webcam @ The Golden Hinde (4K)",
+    "place": "London",
+    "category": "City",
+    "lat": 51.5072,
+    "lng": -0.1276,
+    "youtubeId": "AoWlXqIXNZ8",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/AoWlXqIXNZ8/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=AoWlXqIXNZ8",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
   }
 ]
