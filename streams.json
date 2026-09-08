@@ -967,22 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "iZ_mgwxq9PQ",
-    "name": "LIVE LOS ANGELES - HOLLYWOOD MONDAY WALK -  LA LIVE CAM",
-    "place": "Los Angeles",
-    "category": "City",
-    "lat": 34.0522,
-    "lng": -118.2437,
-    "youtubeId": "iZ_mgwxq9PQ",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/iZ_mgwxq9PQ/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=iZ_mgwxq9PQ",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
