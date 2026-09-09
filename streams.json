@@ -967,22 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "nPGlLfGX6SA",
-    "name": "🔴 LIVE Miami Traffic",
-    "place": "Miami Beach",
-    "category": "Beach",
-    "lat": 25.7907,
-    "lng": -80.13,
-    "youtubeId": "nPGlLfGX6SA",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/nPGlLfGX6SA/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=nPGlLfGX6SA",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
