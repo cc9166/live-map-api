@@ -967,39 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "r684Q3JIoyg",
-    "name": "🔴Tokyo season 24/7🐶Ikebukuro, Akihabara, Shinjuku, etc.",
-    "place": "Shibuya Crossing",
-    "category": "City",
-    "lat": 35.6595,
-    "lng": 139.7005,
-    "youtubeId": "r684Q3JIoyg",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/r684Q3JIoyg/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=r684Q3JIoyg",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "qQoBmgDKZiI",
-    "name": "東京羽田空港 24時間ライブ｜3D航空交通・リアルタイム管制・ATC｜HND",
-    "place": "Shibuya Crossing",
-    "category": "City",
-    "lat": 35.6595,
-    "lng": 139.7005,
-    "youtubeId": "qQoBmgDKZiI",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/qQoBmgDKZiI/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=qQoBmgDKZiI",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
