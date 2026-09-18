@@ -969,6 +969,23 @@
     "pinNumber": 0
   },
   {
+    "id": "-mwsrFbNKqA",
+    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT ACTION!  (September 17th, 2026)",
+    "place": "Los Angeles Airport",
+    "category": "Airport",
+    "lat": 33.9416,
+    "lng": -118.4085,
+    "youtubeId": "-mwsrFbNKqA",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/-mwsrFbNKqA/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=-mwsrFbNKqA",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
     "id": "r684Q3JIoyg",
     "name": "🔴Tokyo season 24/7🐶Ikebukuro, Akihabara, Shinjuku, etc.",
     "place": "Shibuya Crossing",
@@ -13238,23 +13255,6 @@
     "windyPlayerURL": "",
     "coverImageURL": "https://i.ytimg.com/vi/R2jNOtYEwdI/mqdefault_live.jpg",
     "detailURL": "https://www.youtube.com/watch?v=R2jNOtYEwdI",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "-mwsrFbNKqA",
-    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT ACTION!  (September 17th, 2026)",
-    "place": "Los Angeles Airport",
-    "category": "Airport",
-    "lat": 33.9416,
-    "lng": -118.4085,
-    "youtubeId": "-mwsrFbNKqA",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/-mwsrFbNKqA/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=-mwsrFbNKqA",
     "views": "",
     "isHot": false,
     "pinNumber": 0
