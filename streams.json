@@ -967,39 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "Akfm525mTvI",
-    "name": "🔴 LIVE Port Miami Cruise Ship Terminals",
-    "place": "Miami Beach",
-    "category": "Beach",
-    "lat": 25.7907,
-    "lng": -80.13,
-    "youtubeId": "Akfm525mTvI",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/Akfm525mTvI/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=Akfm525mTvI",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "pnAZXXixsmc",
-    "name": "🔴🇬🇧 LIVE LONDON WALK 🔥 Best Weekend Walk in London&#39;s City Centre Famous Streets | Shops, Urban Life",
-    "place": "London",
-    "category": "City",
-    "lat": 51.5072,
-    "lng": -0.1276,
-    "youtubeId": "pnAZXXixsmc",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/pnAZXXixsmc/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=pnAZXXixsmc",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
