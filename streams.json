@@ -967,5 +967,22 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
+  },
+  {
+    "id": "JELaF9xTQNk",
+    "name": "MIAMI 8K Virtual Tour 🇺🇸 🐬 Brickell Skyline, Miami Beach &amp; Florida Coastal Escape ✈️",
+    "place": "Miami Beach",
+    "category": "Beach",
+    "lat": 25.7907,
+    "lng": -80.13,
+    "youtubeId": "JELaF9xTQNk",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/JELaF9xTQNk/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=JELaF9xTQNk",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
   }
 ]
