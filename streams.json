@@ -967,5 +967,22 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
+  },
+  {
+    "id": "ThqN1aruth4",
+    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT ACTION!  (September 22nd, 2026)",
+    "place": "Los Angeles Airport",
+    "category": "Airport",
+    "lat": 33.9416,
+    "lng": -118.4085,
+    "youtubeId": "ThqN1aruth4",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/ThqN1aruth4/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=ThqN1aruth4",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
   }
 ]
