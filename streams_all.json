@@ -969,6 +969,23 @@
     "pinNumber": 0
   },
   {
+    "id": "ydI6DttaVk0",
+    "name": "🔴 LIVE Miami Traffic",
+    "place": "Miami Beach",
+    "category": "Beach",
+    "lat": 25.7907,
+    "lng": -80.13,
+    "youtubeId": "ydI6DttaVk0",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/ydI6DttaVk0/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=ydI6DttaVk0",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
     "id": "JELaF9xTQNk",
     "name": "MIAMI 8K Virtual Tour 🇺🇸 🐬 Brickell Skyline, Miami Beach &amp; Florida Coastal Escape ✈️",
     "place": "Miami Beach",
@@ -13306,23 +13323,6 @@
     "windyPlayerURL": "",
     "coverImageURL": "https://i.ytimg.com/vi/R2jNOtYEwdI/mqdefault_live.jpg",
     "detailURL": "https://www.youtube.com/watch?v=R2jNOtYEwdI",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "ydI6DttaVk0",
-    "name": "🔴 LIVE Miami Traffic",
-    "place": "Miami Beach",
-    "category": "Beach",
-    "lat": 25.7907,
-    "lng": -80.13,
-    "youtubeId": "ydI6DttaVk0",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/ydI6DttaVk0/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=ydI6DttaVk0",
     "views": "",
     "isHot": false,
     "pinNumber": 0
