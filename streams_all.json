@@ -969,6 +969,23 @@
     "pinNumber": 0
   },
   {
+    "id": "ThqN1aruth4",
+    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT ACTION!  (September 22nd, 2026)",
+    "place": "Los Angeles Airport",
+    "category": "Airport",
+    "lat": 33.9416,
+    "lng": -118.4085,
+    "youtubeId": "ThqN1aruth4",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/ThqN1aruth4/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=ThqN1aruth4",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
     "id": "ydI6DttaVk0",
     "name": "🔴 LIVE Miami Traffic",
     "place": "Miami Beach",
@@ -1072,7 +1089,7 @@
   },
   {
     "id": "qQoBmgDKZiI",
-    "name": "台風25号接近｜羽田空港 24時間LIVE｜3D航空交通・離着陸・リアルタイム天気｜HND / RJTT",
+    "name": "羽田空港 24時間LIVE｜3D航空交通・離着陸・リアルタイム天気｜HND / RJTT",
     "place": "Shibuya Crossing",
     "category": "City",
     "lat": 35.6595,
@@ -13323,23 +13340,6 @@
     "windyPlayerURL": "",
     "coverImageURL": "https://i.ytimg.com/vi/R2jNOtYEwdI/mqdefault_live.jpg",
     "detailURL": "https://www.youtube.com/watch?v=R2jNOtYEwdI",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "ThqN1aruth4",
-    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT ACTION!  (September 22nd, 2026)",
-    "place": "Los Angeles Airport",
-    "category": "Airport",
-    "lat": 33.9416,
-    "lng": -118.4085,
-    "youtubeId": "ThqN1aruth4",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/ThqN1aruth4/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=ThqN1aruth4",
     "views": "",
     "isHot": false,
     "pinNumber": 0
