@@ -967,22 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "YRFSntbWqss",
-    "name": "LIVE LOS ANGELES • LITTLE TOKYO WALK DTLA • LA LIVE CAM",
-    "place": "Los Angeles",
-    "category": "City",
-    "lat": 34.0522,
-    "lng": -118.2437,
-    "youtubeId": "YRFSntbWqss",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/YRFSntbWqss/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=YRFSntbWqss",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
