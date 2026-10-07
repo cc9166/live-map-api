@@ -969,6 +969,23 @@
     "pinNumber": 0
   },
   {
+    "id": "96gYpFS4ZvY",
+    "name": "Biscayne Bay Live Cam | Miami, Florida | DoubleTree by Hilton Grand Hotel",
+    "place": "Miami Beach",
+    "category": "Beach",
+    "lat": 25.7907,
+    "lng": -80.13,
+    "youtubeId": "96gYpFS4ZvY",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/96gYpFS4ZvY/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=96gYpFS4ZvY",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
     "id": "uDBYuEV4zjI",
     "name": "Heathrow Airport LIVE 24/7",
     "place": "London",
@@ -13561,23 +13578,6 @@
     "windyPlayerURL": "",
     "coverImageURL": "https://i.ytimg.com/vi/R2jNOtYEwdI/mqdefault_live.jpg",
     "detailURL": "https://www.youtube.com/watch?v=R2jNOtYEwdI",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "96gYpFS4ZvY",
-    "name": "Biscayne Bay Live Cam | Miami, Florida | DoubleTree by Hilton Grand Hotel",
-    "place": "Miami Beach",
-    "category": "Beach",
-    "lat": 25.7907,
-    "lng": -80.13,
-    "youtubeId": "96gYpFS4ZvY",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/96gYpFS4ZvY/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=96gYpFS4ZvY",
     "views": "",
     "isHot": false,
     "pinNumber": 0
