@@ -967,5 +967,22 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
+  },
+  {
+    "id": "pdDiy0Vx054",
+    "name": "🔴 LIVE JFK AIRPORT ACTION FROM NEW YORK | NONSTOP HEAVIES B747 A380 | NYC SKYLINE PLANE SPOTTING",
+    "place": "JFK Airport",
+    "category": "Airport",
+    "lat": 40.6413,
+    "lng": -73.7781,
+    "youtubeId": "pdDiy0Vx054",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/pdDiy0Vx054/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=pdDiy0Vx054",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
   }
 ]
