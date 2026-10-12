@@ -967,5 +967,22 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
+  },
+  {
+    "id": "fMbjyzSvFRM",
+    "name": "🔴 LIVE AIRPORT | Chicago O’Hare Plane Spotting + ATC",
+    "place": "Chicago",
+    "category": "City",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "youtubeId": "fMbjyzSvFRM",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/fMbjyzSvFRM/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=fMbjyzSvFRM",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
   }
 ]
