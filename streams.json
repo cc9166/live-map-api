@@ -967,39 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "bh6kks9agQo",
-    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT ACTION! (October 11th, 2026)",
-    "place": "Los Angeles Airport",
-    "category": "Airport",
-    "lat": 33.9416,
-    "lng": -118.4085,
-    "youtubeId": "bh6kks9agQo",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/bh6kks9agQo/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=bh6kks9agQo",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "bHTPoeTUQTk",
-    "name": "🔴 LIVE | Miami Carnival 2026 🎭 Parade of Bands &amp; Bacchanal Sunday Concert",
-    "place": "Miami Beach",
-    "category": "Beach",
-    "lat": 25.7907,
-    "lng": -80.13,
-    "youtubeId": "bHTPoeTUQTk",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/bHTPoeTUQTk/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=bHTPoeTUQTk",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
