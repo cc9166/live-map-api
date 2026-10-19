@@ -967,5 +967,22 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
+  },
+  {
+    "id": "SSA9bJKv-s4",
+    "name": "🔴 24/7 실시간 한강뷰 | Remember me, Seoul 4K 🌇 Relaxing Lo-Fi Music from Yongsan Seoul Core. 노들섬,RM숲,관악산",
+    "place": "Seoul",
+    "category": "City",
+    "lat": 37.5665,
+    "lng": 126.978,
+    "youtubeId": "SSA9bJKv-s4",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/SSA9bJKv-s4/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=SSA9bJKv-s4",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
   }
 ]
