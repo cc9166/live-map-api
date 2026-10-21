@@ -967,22 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "VfH8gQJQnBE",
-    "name": "Roma Five Suites - Piazza Venezia - Live Webcam from Rome",
-    "place": "Rome",
-    "category": "City",
-    "lat": 41.9028,
-    "lng": 12.4964,
-    "youtubeId": "VfH8gQJQnBE",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/VfH8gQJQnBE/mqdefault_live.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=VfH8gQJQnBE",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
