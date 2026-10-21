@@ -13669,7 +13669,7 @@
   },
   {
     "id": "pzyA9gFHlJg",
-    "name": "TOKYO NOW! | 東京 24/7, Live Cams, Traffic, Weather, Earthquakes",
+    "name": "Tokyo Now! | 東京 24/7 Live Cams &amp; City Dashboard",
     "place": "Shibuya Crossing",
     "category": "City",
     "lat": 35.6595,
@@ -13799,6 +13799,23 @@
     "windyPlayerURL": "",
     "coverImageURL": "https://i.ytimg.com/vi/R2jNOtYEwdI/mqdefault_live.jpg",
     "detailURL": "https://www.youtube.com/watch?v=R2jNOtYEwdI",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
+    "id": "lSf2K0ntZFw",
+    "name": "Miami Skyline &amp; Biscayne Bay LIVE | MacArthur Causeway Webcam | Florida",
+    "place": "Miami Beach",
+    "category": "Beach",
+    "lat": 25.7907,
+    "lng": -80.13,
+    "youtubeId": "lSf2K0ntZFw",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/lSf2K0ntZFw/mqdefault_live.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=lSf2K0ntZFw",
     "views": "",
     "isHot": false,
     "pinNumber": 0
