@@ -967,39 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "GbpNKdjLK5g",
-    "name": "🔴 LIVE: Sunset Plane Spotting at Chicago O’Hare ✈️ Jumbo Jets, Landings &amp; Takeoffs!",
-    "place": "Chicago",
-    "category": "City",
-    "lat": 41.8781,
-    "lng": -87.6298,
-    "youtubeId": "GbpNKdjLK5g",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/GbpNKdjLK5g/mqdefault.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=GbpNKdjLK5g",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "mC3l72Wz_04",
-    "name": "🔴 LIVE AIRPORT ✈️ Chicago O’Hare | Nonstop Plane Spotting 🔥 [v]",
-    "place": "Chicago",
-    "category": "City",
-    "lat": 41.8781,
-    "lng": -87.6298,
-    "youtubeId": "mC3l72Wz_04",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/mC3l72Wz_04/mqdefault.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=mC3l72Wz_04",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
