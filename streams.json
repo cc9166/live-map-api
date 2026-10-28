@@ -967,39 +967,5 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
-  },
-  {
-    "id": "rcyNpGLs1Dw",
-    "name": "NYC LIVE: Fall Walk Through Manhattan 🍂 Bryant Park, Rockefeller Center &amp; Central Park",
-    "place": "Times Square",
-    "category": "City",
-    "lat": 40.758,
-    "lng": -73.9855,
-    "youtubeId": "rcyNpGLs1Dw",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/rcyNpGLs1Dw/mqdefault.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=rcyNpGLs1Dw",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
-  },
-  {
-    "id": "D2SFAee7ZyA",
-    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT PLANE SPOTTING ACTION! (October 27th, 2026)",
-    "place": "Los Angeles Airport",
-    "category": "Airport",
-    "lat": 33.9416,
-    "lng": -118.4085,
-    "youtubeId": "D2SFAee7ZyA",
-    "playlistId": "",
-    "m3u8Url": "",
-    "windyPlayerURL": "",
-    "coverImageURL": "https://i.ytimg.com/vi/D2SFAee7ZyA/mqdefault.jpg",
-    "detailURL": "https://www.youtube.com/watch?v=D2SFAee7ZyA",
-    "views": "",
-    "isHot": false,
-    "pinNumber": 0
   }
 ]
