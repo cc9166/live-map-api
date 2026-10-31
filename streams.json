@@ -967,5 +967,39 @@
     "views": "",
     "isHot": true,
     "pinNumber": 0
+  },
+  {
+    "id": "jkJ2LroZqJw",
+    "name": "🔴LIVE LOS ANGELES (LAX) AIRPORT PLANE SPOTTING ACTION! (October 31st, 2026)",
+    "place": "Los Angeles Airport",
+    "category": "Airport",
+    "lat": 33.9416,
+    "lng": -118.4085,
+    "youtubeId": "jkJ2LroZqJw",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/jkJ2LroZqJw/mqdefault.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=jkJ2LroZqJw",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
+    "id": "3lJt3qPgCf8",
+    "name": "🔴🇬🇧 LIVE LONDON WALK 🔥 Weekend Walk in London&#39;s Crowded City Centre | Famous Streets, Urban Life",
+    "place": "London",
+    "category": "City",
+    "lat": 51.5072,
+    "lng": -0.1276,
+    "youtubeId": "3lJt3qPgCf8",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/3lJt3qPgCf8/mqdefault.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=3lJt3qPgCf8",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
   }
 ]
