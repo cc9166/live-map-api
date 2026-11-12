@@ -1,1 +1,36 @@
-[]
+[
+  {
+    "id": "-9DxzAjssO4",
+    "name": "Berwyn BNSF Racetrack Live Railcam at O&#39;Brien the Cleaners - Berwyn, IL #steelhighway",
+    "place": "Chicago",
+    "category": "City",
+    "lat": 41.8781,
+    "lng": -87.6298,
+    "youtubeId": "-9DxzAjssO4",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/-9DxzAjssO4/mqdefault.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=-9DxzAjssO4",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  },
+  {
+    "id": "wwkVJ-jL3CI",
+    "name": "Roma Five Suites - Piazza Venezia - Live Webcam from Rome",
+    "place": "Rome",
+    "category": "City",
+    "lat": 41.9028,
+    "lng": 12.4964,
+    "youtubeId": "wwkVJ-jL3CI",
+    "playlistId": "",
+    "m3u8Url": "",
+    "windyPlayerURL": "",
+    "coverImageURL": "https://i.ytimg.com/vi/wwkVJ-jL3CI/mqdefault.jpg",
+    "detailURL": "https://www.youtube.com/watch?v=wwkVJ-jL3CI",
+    "views": "",
+    "isHot": false,
+    "pinNumber": 0
+  }
+]
